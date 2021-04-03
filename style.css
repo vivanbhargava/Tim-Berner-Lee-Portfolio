@@ -34,6 +34,7 @@ body {
     right: 0px;
     z-index: 1;
     padding-top: 100px;
+    margin: -20px;
 }
 
 img {
@@ -70,4 +71,16 @@ p {
     max-width: 80%;
     margin: 25px auto;
     color: red;
+}
+#videos{
+    background: linear-gradient(lightblue, yellowgreen);
+    margin: -20px;
+}
+#work{
+    background: linear-gradient(yellowgreen, lightblue);
+    margin: -20px;
+}
+#writings{
+    background: linear-gradient(lightblue, yellowgreen);
+    margin: -20px;
 }
